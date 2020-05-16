@@ -1,2 +1,0 @@
-# mo5
-assignment
